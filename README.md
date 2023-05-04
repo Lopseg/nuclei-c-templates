@@ -1,2 +1,2 @@
 # nuclei-c-templates
-Private nuclei templates
+random nuclei templates
